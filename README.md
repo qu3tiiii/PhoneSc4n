@@ -3,6 +3,7 @@
 Para usarlo necesitaran colorama y phonenumbers
 "pip install colorama"
 "pip install phonenumbers"
-![bieg](https://user-images.githubusercontent.com/84819214/129421452-1b62fdb3-dc67-4bef-9291-853213f9351a.gif)
+![niceeSKULL](https://user-images.githubusercontent.com/84819214/129421597-89771552-83d7-404e-b306-5eef89b05ad8.jpg)
+
 
 
