@@ -25,7 +25,9 @@ dX.    9Xb      .dXb    __                         __    dXb.     dXP     .Xb
                               X. 9  `   '  P )X
                               `b  `       '  d'
                                `             '
-                        PhoneScanner By Qu3ti!
+============================================================|
+                        Number-Scanner By Qu3ti!            |
+============================================================|
 """)
 print (Fore.LIGHTMAGENTA_EX+"Ingresa el numero: ")
 data=input()
