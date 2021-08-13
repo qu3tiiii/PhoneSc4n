@@ -27,6 +27,7 @@ dX.    9Xb      .dXb    __                         __    dXb.     dXP     .Xb
                                `             '
 ============================================================|
                         Number-Scanner By Qu3ti!            |
+                        https://github.com/qu3tiiii         |
 ============================================================|
 """)
 print (Fore.LIGHTMAGENTA_EX+"Ingresa el numero: ")
