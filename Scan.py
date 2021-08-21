@@ -3,6 +3,7 @@ import phonenumbers
 from phonenumbers import geocoder
 from phonenumbers import carrier
 from colorama import *
+from colorama import init
 print(Fore.MAGENTA+"""
         .                                                      .
         .n                   .                 .                  n.
